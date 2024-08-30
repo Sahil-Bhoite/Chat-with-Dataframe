@@ -20,7 +20,7 @@ Before running this application, make sure you have the following:
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/dataset-chat-app.git
+   git clone https://github.com/Sahil-Bhoite/Chat-with-Dataframe/git
    cd dataset-chat-app
    ```
 
@@ -74,4 +74,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-[Insert your chosen license here]
+[[Insert your chosen license here](https://github.com/Sahil-Bhoite/Chat-with-Dataframe/blob/main/LICENSE)]
+
+## About the Developer
+
+LinkedIn: [Sahil Bhoite](https://www.linkedin.com/in/sahil-bhoite/)
+Portfolio: [Sahil Bhoite's Portfolio](https://sahil-bhoite.github.io/Portfolio/)
