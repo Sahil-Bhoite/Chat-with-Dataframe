@@ -74,7 +74,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-[[Insert your chosen license here](https://github.com/Sahil-Bhoite/Chat-with-Dataframe/blob/main/LICENSE)]
+(https://github.com/Sahil-Bhoite/Chat-with-Dataframe/blob/main/LICENSE)
 
 ## About the Developer
 
